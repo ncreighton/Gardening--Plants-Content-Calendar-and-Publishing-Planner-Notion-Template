@@ -1,2 +1,28 @@
-# Gardening--Plants-Content-Calendar-and-Publishing-Planner-Notion-Template
-Multi-channel content planning with approval workflows and performance analytics. Built for Gardening &amp; Plants specific content types and channels.
+# Gardening & Plants Content Calendar and Publishing Planner Notion Template
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/eVqcN5eTtgaU9JKdI0d090N)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/eVqcN5eTtgaU9JKdI0d090N)
+
